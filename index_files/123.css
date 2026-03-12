@@ -96,7 +96,7 @@ footer
 /* header graphics */
 header
 {
-	background: url(top.jpg) no-repeat 0 0;
+	background: url(/wide-bg.webp) no-repeat 0 0;
 	text-indent: -2000px;
 	margin: 0;
 	padding: 0;

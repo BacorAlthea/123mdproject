@@ -79,7 +79,7 @@ footer {
 
 .design-archives,
 .zen-resources {
-	background: #b99ab8 url(blume_unten.gif) no-repeat left bottom;
+	background: #b99ab8 url("../assets/blume_unten.gif") no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 15px;
 }

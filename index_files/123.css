@@ -86,7 +86,7 @@ footer {
 
 /* header graphics */
 header {
-	background: url(/butterfly.png) no-repeat 0 0;
+	background: url("../assets/butterfly.png") no-repeat 0 0;
 	text-align: left;
 	margin: 0;
 	padding: 3rem;

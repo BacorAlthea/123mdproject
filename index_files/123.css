@@ -72,7 +72,7 @@ footer {
 }
 
 .design-selection {
-	background: #55012b url(kasten1_03.gif) no-repeat left bottom;
+	background: #55012b url("../assets/butterflygif12.png") no-repeat left bottom;
 	padding-bottom: 30px;
 	position: relative;
 }

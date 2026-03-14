@@ -79,7 +79,7 @@ footer {
 
 .design-archives,
 .zen-resources {
-	background: #b99ab8 url("../assets/blume_unten.gif") no-repeat left bottom;
+	background: #b99ab8 url("../assets/butterfly.gif") no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 15px;
 }
@@ -148,7 +148,7 @@ h3 {
 }
 
 .explanation h3 {
-	background: url(headlines_04.gif) no-repeat 0 0;
+	background: url("../assets/headlines_04.gif") no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;

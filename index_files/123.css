@@ -22,7 +22,7 @@ body {
 }
 
 p {
-	font: 11px/16px "trebuchet ms", arial, helvetica, sans;
+	font: 14px/22px "trebuchet ms", arial, helvetica, sans;
 	text-align: justify;
 	letter-spacing: 1px;
 	margin: 0 0 0;
@@ -58,12 +58,12 @@ abbr {
 
 /* specific divs */
 footer {
-	background: transparent url(footer_bg.gif) no-repeat left bottom;
+	background: transparent url("../assets/footer_bg.gif") no-repeat left bottom;
 	padding: 20px 0 60px 22px;
 }
 
 .page-wrapper {
-	background: #411948 url(steine.gif) repeat-y;
+	background: #191288 url("../assets/butterfly.gif") repeat-y;
 	display: block;
 	margin: 0 auto;
 	padding: 0;
@@ -72,22 +72,23 @@ footer {
 }
 
 .design-selection {
-	background: #0165fa url("../assets/gifbackground1.gif") no-repeat left bottom;
-	padding-bottom: 30px;
+	background: #ff87e7 url("../assets/bluebutterflynasad.gif") no-repeat left bottom;
+	padding-bottom: 9px;
 	position: relative;
 }
 
 .design-archives,
 .zen-resources {
-	background: #b99ab8 url("../assets/butterfly.gif") no-repeat left bottom;
+	background: #b99ab8 url("../assets/bluebutterflynasad.gif") no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 15px;
 }
 
 /* header graphics */
 header {
-	background: url("../assets/butterfly.png") no-repeat 0 0;
-	text-align: left;
+	background: url("../assets/headerbg22.gif") no-repeat;
+	font-size: 30px;
+	text-align: center;
 	margin: 0;
 	padding: 3rem;
 	height: 366px;
@@ -96,14 +97,14 @@ header {
 /* header h2
 {
 	line-height: 0;
-	background: #411948 url(headlines_02.gif) no-repeat;
+	background: #411948 url("../assets/headlines_02.gif") no-repeat;
 	text-indent: -2000px;
 	display: block;
 	margin: 0;
 	padding: 0;
 	position: relative;
 	top: 385px;
-	left: 355px;
+	left: 322px;
 	width: 370px;
 	height: 68px;
 	color: orange;
@@ -140,7 +141,7 @@ h3 {
 /* h1, h2 { display: none; } */
 
 .preamble h3 {
-	background: url(headlines_03.gif) no-repeat 0 0;
+	background: url("../assets/headlines_03.gif") no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -156,15 +157,15 @@ h3 {
 }
 
 .participation h3 {
-	background: url(headlines_05.gif) no-repeat 0 0;
+	background: url("../assets/PARTICIPATION1.gif") no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
-	height: 48px;
+	height: 80px;
 }
 
 .benefits h3 {
-	background: url(headlines_06.gif) no-repeat 0 0;
+	background: url("../assets/headlines_06.gif") no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -172,7 +173,7 @@ h3 {
 }
 
 .requirements h3 {
-	background: url(headlines_07.gif) no-repeat 0 0;
+	background: url("../assets/headlines_07.gif") no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -181,7 +182,7 @@ h3 {
 
 .preamble,
 .supporting {
-	background-color: #59365f;
+	background: url("../assets/butterfly.gif");
 	text-align: left;
 	position: relative;
 	left: 355px;
@@ -228,14 +229,14 @@ h3 {
 }
 
 .sidebar h3.archives {
-	background: url(liliarchives_01.gif) no-repeat left top;
+	background: url("../assets/liliarchives_01.gif") no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
 }
 
 .sidebar h3.resources {
-	background: url(liliresourcen_01.gif) no-repeat left top;
+	background: url("../assets/liliresourcen_01.gif") no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
